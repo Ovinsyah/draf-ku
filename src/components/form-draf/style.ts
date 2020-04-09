@@ -4,7 +4,8 @@ export const Section = Styled.div`
   background: white;
   position: fixed;
   top: 0;
-  width: 450px;
+  max-width: 450px;
+  width: 100%;
   height: 100vh;
 `;
 export const Header = Styled.header`
