@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/draf-ku/static/css/main.74923dd4.chunk.css",
+    "main.js": "/draf-ku/static/js/main.3dece7dd.chunk.js",
+    "main.js.map": "/draf-ku/static/js/main.3dece7dd.chunk.js.map",
+    "runtime-main.js": "/draf-ku/static/js/runtime-main.59109f13.js",
+    "runtime-main.js.map": "/draf-ku/static/js/runtime-main.59109f13.js.map",
+    "static/css/2.b90ce945.chunk.css": "/draf-ku/static/css/2.b90ce945.chunk.css",
+    "static/js/2.0bca8ab3.chunk.js": "/draf-ku/static/js/2.0bca8ab3.chunk.js",
+    "static/js/2.0bca8ab3.chunk.js.map": "/draf-ku/static/js/2.0bca8ab3.chunk.js.map",
+    "index.html": "/draf-ku/index.html",
+    "precache-manifest.e72f2dfb89feeb3a55e6d19a0e36fc12.js": "/draf-ku/precache-manifest.e72f2dfb89feeb3a55e6d19a0e36fc12.js",
+    "service-worker.js": "/draf-ku/service-worker.js",
+    "static/css/2.b90ce945.chunk.css.map": "/draf-ku/static/css/2.b90ce945.chunk.css.map",
+    "static/css/main.74923dd4.chunk.css.map": "/draf-ku/static/css/main.74923dd4.chunk.css.map",
+    "static/js/2.0bca8ab3.chunk.js.LICENSE.txt": "/draf-ku/static/js/2.0bca8ab3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59109f13.js",
+    "static/css/2.b90ce945.chunk.css",
+    "static/js/2.0bca8ab3.chunk.js",
+    "static/css/main.74923dd4.chunk.css",
+    "static/js/main.3dece7dd.chunk.js"
+  ]
+}
